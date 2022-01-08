@@ -5,8 +5,6 @@ public class CountNumberOfSubstringsWithExactlyKDistinctCharacters {
     //GFG imp
     //Amazon
     public static int getCount(String s, int k){
-      //fir se submit mat karna
-        //refer github code
         //Count number of substrings
         //NOTE:
         //using array as memo as using hashmap gives TLE on GFG.
