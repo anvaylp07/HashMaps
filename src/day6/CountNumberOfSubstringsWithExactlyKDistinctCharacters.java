@@ -1,8 +1,5 @@
 package day6;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class CountNumberOfSubstringsWithExactlyKDistinctCharacters {
     //failed to solve on your own
     //GFG imp
