@@ -1,0 +1,11 @@
+
+E
+java:S1197"*Move the array designators [] to the type.(ºÌñ°ùÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(áÒäÈ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(…¥ÄÕ
+F
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ1
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–ú½µ

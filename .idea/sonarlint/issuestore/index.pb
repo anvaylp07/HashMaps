@@ -1,3 +1,19 @@
 
+J
+src/day5/ValidAnagram.java,f\d\fdf2239b69745ae69d2078d3e29c5113ee049c67
+U
+%src/day5/SubArraySumDivisibleByK.java,0\8\08667be9a67d0bfe0c05144a396d31794fd4ebe9
+`
+0src/day5/LongestSubArrayWithSumDivisibleByK.java,1\c\1c8eb011c79265b806c0be808a18ad72725f57fd
+W
+'src/day4/SubArraysWithEqual1sAnd0s.java,3\6\3693aa12c731a65d753ecaa482f227d19e3144c1
+\
+,src/day4/LongestSubArrayWithEqual0s1s2s.java,c\2\c2c86a0905e7e483b8ff4924f9c9c92ce8be7199
+V
+&src/day4/LargestSubArrayOf0sAnd1s.java,3\7\378eeccb8ca4f29e3fad6cc5e00859a97097372c
+I
+src/day4/Equal0s1s2s.java,4\d\4dcc006980f4c39dda7820512d017d0d712a24cc
 g
 7src/day3/LongestSubStringWithoutRepeatingCharacter.java,9\5\95f793debe0f7929dda0bccd1f59276ee9840ee4
+^
+.src/day1/CheckIfArrayPairsAreDivisibleByK.java,1\d\1d39f1fcaa30e26d76dcd8c5e3a162563eb3bc4c
