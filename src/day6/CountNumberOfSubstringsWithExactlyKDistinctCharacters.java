@@ -10,7 +10,7 @@ public class CountNumberOfSubstringsWithExactlyKDistinctCharacters {
         //using array as memo as using hashmap gives TLE on GFG.
         //Most likely due to hash collisons.
         return CountSubStringsHavingAtmostKUniqueCharacters.getSubStringCountUsingArraysAsMemo(s,k)
-                -CountSubStringsHavingAtmostKUniqueCharacters.getSubStringCountUsingArraysAsMemo(s,k);
+                -CountSubStringsHavingAtmostKUniqueCharacters.getSubStringCountUsingArraysAsMemo(s,k-1);
     }
     public static void main(String[] args) {
         System.out.println(getCount("ababca",2));

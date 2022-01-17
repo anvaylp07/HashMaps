@@ -17,3 +17,11 @@ g
 7src/day3/LongestSubStringWithoutRepeatingCharacter.java,9\5\95f793debe0f7929dda0bccd1f59276ee9840ee4
 ^
 .src/day1/CheckIfArrayPairsAreDivisibleByK.java,1\d\1d39f1fcaa30e26d76dcd8c5e3a162563eb3bc4c
+X
+(src/day1/LargestSubArrayWithZeroSum.java,0\2\02f1110195f8ed7dbde98e98963c6dc8dbcece01
+\
+,src/day2/CountOfAllSubArraysWithZeroSum.java,e\7\e7305b1575b0eeeec9d54ba79aab4a420b901680
+_
+/src/day3/LongestKUniqueCharactersSubstring.java,5\a\5a8bf077f1ae15058021149ae62f9cab0ce85c11
+`
+0src/day2/CountDistinctElementsInEveryWindow.java,9\e\9e6bf3ce7989a5118f4e20f905433f3b7fd9e7b0
